@@ -3,7 +3,8 @@ package com.example.course.repositories;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import com.example.course.entities.User;
-
+/* @Repository é opcional ja que a classe herda de JpaRepository
+que já está registrado como componente expring */
 public interface UserRepository extends JpaRepository<User, Long>{
 }
 
