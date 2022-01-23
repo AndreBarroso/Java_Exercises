@@ -1,59 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7198da1-5e48-4dd9-8030-4c50a0b2ad23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/biblioteca/biblioteca.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capituloUdemyHibernate/biblioteca/biblioteca.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/src/main/java/br/com/codenation/biblioteca/BibliotecaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca (2)/biblioteca/src/test/java/br/com/codenation/biblioteca/BibliotecaApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/src/main/java/br/com/codenation/biblioteca/BibliotecaApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteca/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteca/src/test/java/br/com/codenation/biblioteca/BibliotecaApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/capituloUdemyHibernate/aulajpamaven/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course/src/main/java/com/example/course/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/course/src/main/java/com/example/course/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/.idea/libraries/Maven__org_springframework_spring_beans_5_3_12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/biblioteca.iml" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/biblioteca.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/BibliotecaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/BibliotecaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/controller/AvaliacaoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/controller/AvaliacaoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/model/Avaliacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/model/Avaliacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/model/AvaliacaoIdentity.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/model/AvaliacaoIdentity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/service/AvaliacaoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/service/AvaliacaoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/service/AvaliacaoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/avaliacao/service/AvaliacaoServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/controller/CategoriaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/controller/CategoriaController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/model/Categoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/model/Categoria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/service/CategoriaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/service/CategoriaService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/service/CategoriaServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/categoria/service/CategoriaServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/controller/LivroController.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/controller/LivroController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/model/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/model/Livro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/repository/LivroRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/repository/LivroRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/service/LivroService.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/service/LivroService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/service/LivroServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/samana5/biblioteca/target/classes/br/com/codenation/livro/service/LivroServiceImpl.class" afterDir="false" />
+    <list default="true" id="898163e7-aff5-483c-8cef-3683ee0eacc7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,26 +14,99 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="ProjectId" id="247Bp43aJqqQoBsThNrv1uDKX4Z" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
   </component>
-  <component name="ProjectId" id="23yCcJzWyijam5FOY9fmiYKxXWO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled104" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c7198da1-5e48-4dd9-8030-4c50a0b2ad23" name="Changes" comment="" />
-      <created>1642697036657</created>
+      <changelist id="898163e7-aff5-483c-8cef-3683ee0eacc7" name="Changes" comment="" />
+      <created>1642971929509</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642697036657</updated>
+      <updated>1642971929509</updated>
     </task>
     <servers />
   </component>
