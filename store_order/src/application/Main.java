@@ -50,23 +50,24 @@ public class Main {
             order.addItem(new OrderItem(quantity, new Product(productName, price)));
         }
 
+        System.out.println(" ");
+        System.out.println(" ");
+
         System.out.println("ORDER SUMMARY ");
-        System.out.println("Order moment: " + order.getMoment());
+        System.out.println("Order moment: " + sdf.format(order.getMoment()));
         System.out.println("Order status: " + status);
 
-        // Colocar aqui a linha do Cliente
+        System.out.println("Cliente: " + order.getClient().getName() +
+                " (" + order.getClient().getEmail() + ") - " +
+                sdf.format(order.getClient().getBirthDate()));
 
-
-        System.out.println("Order item: ");
+        System.out.println("Order items: ");
         for(OrderItem item: order.getItem()) {
-            System.out.print(item.getProduct().getName() + ", " +
+            System.out.println(item.getProduct().getName() + ", $" +
                     item.getProduct().getPrice()
-                    + ", Quantity: " + item.getQuantity() + ", Subtotal: " + item.subTotal());
+                    + ", Quantity: " + item.getQuantity() + ", Subtotal: $" + item.subTotal());
         }
-
-
-
-
+        System.out.println("Total Price: $" + order.total());
         sc.close();
     }
 }
