@@ -30,7 +30,7 @@ public class PessoaFisica extends Geral{
             imp = super.getRendaAnual() * 0.25;
         }
         if (gastosSaude > 0) {
-            imp -= gastosSaude;
+            imp -= gastosSaude / 2;
         }
         return imp;
     }

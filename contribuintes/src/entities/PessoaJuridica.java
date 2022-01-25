@@ -1,13 +1,13 @@
 package entities;
 
-public class PessoaJurídica extends Geral{
+public class PessoaJuridica extends Geral{
     private Integer numeroFuncinarios;
 
-    public PessoaJurídica() {
+    public PessoaJuridica() {
         super();
     }
 
-    public PessoaJurídica(String nome, Double rendaAnual, Integer numeroFuncinarios) {
+    public PessoaJuridica(String nome, Double rendaAnual, Integer numeroFuncinarios) {
         super(nome, rendaAnual);
         this.numeroFuncinarios = numeroFuncinarios;
     }
