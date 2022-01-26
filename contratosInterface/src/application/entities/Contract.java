@@ -9,7 +9,7 @@ public class Contract {
     private Date date;
     private double totalValue;
 
-    List<Instalment> instalments = new ArrayList<>();
+    List<InstalmentByPaypal> instalmentByPaypals = new ArrayList<>();
 
     public Contract(Integer number, Date date, double totalValue) {
         this.number = number;
@@ -41,11 +41,11 @@ public class Contract {
         this.totalValue = totalValue;
     }
 
-    public List<Instalment> getInstalments() {
-        return instalments;
+    public List<InstalmentByPaypal> getInstalments() {
+        return instalmentByPaypals;
     }
 
-    public void addInstalments (Instalment instalment) {
-        instalments.add(instalment);
+    public void addInstalments (InstalmentByPaypal instalmentByPaypal) {
+        instalmentByPaypals.add(instalmentByPaypal);
     }
 }
